@@ -6,120 +6,22 @@ output:
     toc_depth: 4
 ---
 
-## For now...
+## The project
 
-This page is under development. In the mean time, we provide you with the project proposal submitted to the GP Committee. We will post further contet if we are notified of the acceptance.
+We aim to....
 
-You can view a cool story of how TURF-reserves increase populations of groupers and bass by clicking [here](http://datamares.ucsd.edu/eng/projects/fisheries/effects-of-short-term-marine-reserves-on-grouper-and-bass-populations/)
+- Objective 1
+- Objective 2
+- Objective 3
 
-## Project proposal
+You can read our project proposal in [pdf](docs/proposal.pdf) or [web page](turf-reserves.github.io/proposal.html)
 
-### Evaluation of TURF-reserve effectiveness in Mexico
+## The team
 
-_________________________________________________________________________________
+### Caio Faro [Resume](docs/caio.pdf)
 
-**Proposers**
+### Jael Martinez [Resume](docs/jael.pdf)
 
-[*Latin American Fisheries Fellowship*](http://www.laff.bren.ucsb.edu/)
+### Melaina Wright [Resume](docs/melaina.pdf)
 
-Bren School of Environmental Science and Management
-
-[Juan Carlos Villasenor-Derbez](http://www.laff.bren.ucsb.edu/laff-network/juan-carlos-villase%C3%B1or), <jvillasenor@bren.ucsb.edu>, +52 1 646-102-0624
-
-[Caio Faro](http://www.laff.bren.ucsb.edu/laff-network/caio-faro), <cfaro@bren.ucsb.edu>, +1 805 689-9849
-    
-    
-    
-**Client**
-
-[*Comunidad y Biodiversidad, A.C.*](http://www.cobi.org.mx)
-
-Jorge Torre-Cosio, Executive Director, <jtorre@cobi.org.mx>, +52 1 622-855-9264
-
-Alvin Suarez, Marine Reserves Manager for the Gulf of California and Marine Reserves Science Responsible, <asuarez@cobi.org.mx>, +52 1 622-146-5284
-
-_________________________________________________________________________________
-
-#### Objectives
-
-The objective of this project is to evaluate the effectiveness of TURF-reserves established as collaboration between fishing communities in Mexico and the NGO Comunidad y Biodiversidad (COBI). We aim to understand the degree to which management actions have achieved the goals and objectives – in social, ecological, and economic terms- of each TURF-reserve. By combining this information, we will create a framework that allows COBI to better understand which communities are more suitable to implement successful TURF-reserves. This project will focus more specifically on answering the following questions:
-
-1.	What is the state of the established TURF-reserves in ecological terms? 
-2.	What are the economic costs and benefits related to establishing a TURF-reserve, and how long does it take for the benefits to outweigh the costs?
-3.	To what extent have the goals been met in each community, and how quickly if so?
-
-
-#### Significance
-
-Marine ecosystems around the world sustain significant anthropogenic impacts from activities such as overfishing, habitat deterioration, destructive fishing practices, pollution, and climate change (Halpern et. al., 2008; McCauley *et al*., 2015). Of these, overfishing and unsustainable fishing practices represent a large portion of the deterioration. Multiple solutions have been proposed in order to manage fisheries and restore marine environments. Two of the most widely used management strategies are Territorial Use Rights for Fisheries (TURFs) and Marine Reserves (MRs), which are usually implemented separately (Afflerbach *et al*., 2014). Nevertheless, there are cases when both strategies are implemented together, thus creating TURF-reserves (Costello and Caffine, 2009).
-TURFs are areas where exclusive extraction of natural resources is granted to a person or group of people, in this case fishers (Christy, 1982). The ownership of an area incentivizes fishers to sustainably manage their resources (Afflerbach *et al*., 2014). MRs are areas from which extraction is null or limited. While MRs have proven to increase biomass (Lester *et al*., 2009), enhance resilience of the bounded region (Micheli *et al*., 2012), and preserve genetic diversity (Munguía-Vega *et al*., 2015) it is not uncommon to find sites with poor management. Thus, the combination of two of the most effective management strategies seems plausible to obtain better results.
-In Mexico, marine reserves had been traditionally established as no-take zones within a marine protected area. Nevertheless, a 2014 regulation (NOM-049-SAG/PESC-2014) now allows the establishment of no-take zones under the name of “Fishing Refugees”. Until this change, TURF-reserves established by TURF owners had no legal support, and were only recognized as so by themselves as resource users. This scheme did not allow appropriate enforcement of the areas, and thus threatened the potential of recovery. This new regulation enables TURF owners to establish legally supported MRs within their granted area.
-COBI is one of the largest marine conservation and sustainable fisheries NGOs in Mexico, and has dedicated the past 15 years to collaborating with coastal communities. A large part of their work has been devoted to establish TURF-reserves with coastal communities. COBI recognizes that the initial costs of closing a fishing area to establish a TURF-reserve may be relatively high for communities, as this initially represents a decrease in fishing and income. Providing an assessment of the performance of these reserves will not only provide COBI with knowledge on the characteristics of a TURF-reserve that lead to success, but also allow them to better select other communities. This, along with the recent regulations to establish TURF-reserves, would allow COBI to promote the use of TURF-reserves amongst fishers, and work towards establishing a network of such reserves along Mexico’s coast, intended to provide social and ecological resilience to coastal communities.
-
-
-#### Background
-
-Working tightly with coastal communities, COBI has recently established TURF-reserves: a coupling between Territorial User Rights for Fisheries and Marine Reserves. These TURF-reserves have been established in fishing communities in three main regions: the Pacific Ocean, Gulf of California, and the Caribbean. Amongst these regions, COBI works with a total of 15 communities, where at least one TURF-reserve has been established.
-Several of these reserves have been established for up to 10 years now, and fisheries recovery has been observed in particular TURF-reserves (e.g. Micheli *et al*., 2012, Villaseñor-Derbez *et al*., 2015). However, COBI lacks a national approach that comprehensively describes the effectiveness of each TURF-reserve and condenses it in a framework that enhances effectiveness.
-
-
-#### Available data
-
-Thanks to monitoring programs in each location, COBI has an extensive database that will provide the basis for the rigorous assessment of these reserves. Datasets include fish counts and size structure, invertebrate count data, algal cover, and habitat heterogeneity. It is important to mention that all locations were sampled before the implementation of the TURF-reserves, thus providing us with a base line for before-after analysis. There are ecological data available for each TURF-reserve and its respective control zone. Databases will allow us to evaluate the recovery of the TURF-reserves, and will be made available to the group as soon as needed by the project team.
-
-
-#### Possible approaches
-
-Due to the environmental differences between the regions where COBI has established reserves, databases have slight differences between them. The first step will be to standardize databases into a common format that allows the project team to work more efficiently. The evaluation will be done at a regional level as a starting point to take into account differences in ecosystems, ecological stressors, and social structure of the communities in each region. Our approaches are directly linked to our objectives, and enumerated in the same order.
-
-1.	*Evaluating the recovery of TURF-reserves*
-  + a.	To evaluate the recoveries of the TURF-reserves, biomass (fish) and abundance (invertebrates) will be compared between each TURF-reserve and its corresponding control zone. Rather than looking at absolute numbers, we will follow Caselle *et al*., (2015) and compare trends over time, for each area (i.e. TURF-reserve and control area). By focusing on temporal variations, we can evaluate the recoveries in a way that is less susceptible to biases related to MPA location (e.g. MR established in a fish abundant / poor area).
-  + b.	Understanding how a community is structured may also provide insight of recovery. Sometimes total fish biomass may not change over time (e.g. when a large number of small fish are replaced by few large fish) and other approaches might be necessary. Thus, we will also focus in community structure, with special attention to trophic levels. 
-  * c.	Furthermore, we will look into specific species of interest (i.e. threatened or important to fisheries) and evaluate their independent recovery.
-
-2.	*Economic costs / benefits*
-  + a.	We will estimate the costs of fishing closures that are related to the area where fishers have decided to establish their TURF-reserves. We will then estimate the net value of the area by evaluating: a) what would happen if fishing was suddenly allowed and the resources were harvested, and b) the value of the spillover from the area. Economic evaluations will take into account time to recovery, time to harvest, and time of investment (i.e. foregone fishing revenue).
-
-3.	*Effectiveness of the TURF-reserves*
-  + a.	To evaluate the effectiveness of the TURF-reserves, the client has suggested to use IUCN’s “How is your MPA doing?” framework. This guide is based on a set of natural and social indicators that allow evaluating the effectiveness of Marine Protected Areas (Pomeroy *et al*., 2008), and is currently used by the Mexican Commission of Natural Protected Areas (CONANP).
-  + b.	While IUCN provides a comprehensive framework, we intend incorporate additional approaches that are more suitable for specific regions or components of this project.
-
-
-#### Deliverables
-
-In addition to the final written report, poster, and oral presentation required by Bren School, our client has requested our project team to provide them with:
-
-1.	A peer-reviewed article in which we report and summarize the major findings.
-2.	Bimonthly reports, in which we will explain the state of the project.
-3.	A summarized version of the final report –translated to Spanish– as an internal report.
-
-Additionally, we will develop a tool (e.g. software or other transferrable platform) for COBI to feed with future data. This will be an automated version of the framework developed in our project, and will provide a detailed evaluation of the effectiveness of the TURF-reserve(s). The framework and platform will also allow for an a priori evaluation of potential communities with which COBI is interested in collaborating with to implement future TURF-reserves. Thus, the tool could provide insights the probability of success of a project. In both scenarios, the tool will provide recommendations that will help COBI enhance effectiveness of its initiatives and obtain better results. These recommendations will be aligned with COBI’s current strategic program areas (leadership empowerment, sustainable fisheries, public policy, and marine reserves).
-
-
-#### Internships
-
-COBI will support (at least) one summer internship in Mexico for a MESM student(s) on the team. The intern(s) will be based out of one of COBI’s headquarter offices (Guaymas, La Paz, or Puerto Morelos), and will work within their Marine Reserves initiative, under direct supervision of the regional Marine Reserves Manager (Alvin Suárez, Arturo Hernández, or Stuart Fulton, respectively). Nevertheless, financial support (flights and accommodation) will only be covered for one intern.
-
-
-### Supporting Materials
-
-#### References
-
-* Afflerbach, J.C., Lester, S.E., Dougherty, D.T., Poon, S.E. 2014. A global survey of “TURF-reserves”, Territorial User Right of Fisheries coupled with marine reserves. Global Ecology and Conservation, 2: 97-106. doi:10.1016/j.gecco.2014.08.001
-* Caselle, J.E., Rassweiler, A., Hamilton, S.L., Warner, R.R. 2015. Recovery trajectories of kelp forest animals are rapid yet spatially variable across a network of temperate marine protected areas. Nature Scientific Reports. 5: 14102, doi: 10.10287srep14102
-* Christy, F.T. 1982. Territorial use rights in marine fisheries: definitions and conditions. FAO Fisheries Technical Paper 227.
-* Costello, C., Kaffine, D.T. 2010. Marine protected areas in spatial property-rights fisheries. Australian Journal of Agriculture and Resource Economics, 54, 321–341.
-* Halpern, B.S., Walbridge, S., Selkoe Kimberly, A., Kappel, C.V., Micheli, F., D’Agrosa, C., Bruno, J.F., Caseu, K., Elbert, C., Fox, H.E., Fujita, R., Heinemann, D., Lenihan, H.S., Madin, E.M.P., Perry, M.T., Selig, E.R., Spalding, M., Steneck, R., Eatson, R. 2008. A global map of human impact on marine ecosystems. Science. doi: 10.1126/science.1149345
-* Lester, S.E., Halpern, B.S., Grorud-Colvert, K., Lubchenco, J., Ruttenberg, B.I., Gaines, S.D., Airamé, S., Warner, R.R. 2009. Biological effects within no-take marine reserves: a global synthesis. Marine Ecology Progress Series, 384, 33–46.
-* McCauley, D.J., Pinsky, M., Palumbi, S.R., Estes, J.A., Joyce, F.H., Warner, R.R. 2015. Marine defaunation: Animal loss in the global ocean. Science. doi: 10.1126/science.1255641
-* Micheli, F., Saenz-Arroyo, A., Greenley, A., Vasquez, L., Espinoza Montes, J.A., Rosetto, M., De Leo, G.A. 2012. Evidence That Marine Reserves Enhance Resilience to Climatic Impacts. PLoS ONE, 7(7): e40832. doi:10.1371/journal.pone.0040832
-* Munguía-Vega, A., Sáenz-Arroyo, A., Greenley, A.P., Espinoza-Montes, J.A., Palumbi, S.R., Rosetto, M., Micheli, F. 2015. Marine reserves help preserve genetic diversity after impacts derived from climate variability: Lessons from the pink abalone in Baja California. Global Ecology and Conservation, 4: 264-276. doi: 10.1016/j.gecco.2015.07.005
-* Pomeroy, R.S., Watson, L.M., Parks, J.E., Cid, G.A. 2005. How is your MPA doing? A methodology for evaluating the management effectiveness of marine protected areas. Ocean & Coastal Management, 48: 485-502. doi:10.1016/j.ocecoaman.2005.05.004
-* Villaseñor-Derbez J.C., Hernández-Velasco, A, Erauskin, M., Fulton, S., Cota-Nieto, J.J., Torre-Cosio, J., Herzka-Llona, S., Aburto-Oropeza, A. Effects of short-term marine reserves on grouper and bass populations. DataMares InteractiveResource, doi: 10.13022/M33K52
-
-#### Budget and justification
-
-We do not expect the project’s basic operations during the school year to exceed the stipend provided by the Bren School ($1,300.00).
-
-
-
+### Juan Carlos Villasenor-Derbez [Resume](docs/jc.pdf)
