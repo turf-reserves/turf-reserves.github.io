@@ -6,22 +6,41 @@ output:
     toc_depth: 4
 ---
 
+## What are TURF-Reserves?
+
+Multiple solutions have been proposed in order to manage fisheries and restore marine environments. Two of the most widely used management strategies are Territorial Use Rights for Fisheries (TURFs) and Marine Reserves (MRs), which are usually implemented separately (Afflerbach *et al*., 2014). Nevertheless, there are cases when both strategies are implemented together, thus creating TURF-reserves (Costello and Kaffine, 2009).
+
 ## The project
 
-We aim to....
+The objective of this project is to evaluate the effectiveness of TURF-reserves established as collaboration between fishing communities in Mexico and the NGO [Comunidad y Biodiversidad (COBI)](cobi.org.mx/en). We aim to understand the degree to which management actions have achieved the goals and objectives – in social, ecological, and economic terms- of each TURF-reserve. By combining this information, we will create a framework that allows COBI to better understand which communities are more suitable to implement successful TURF-reserves. This project will focus more specifically on answering the following questions:
 
-- Objective 1
-- Objective 2
-- Objective 3
+1.	What is the state of the established TURF-reserves in ecological terms? 
+2.	What are the economic costs and benefits related to establishing a TURF-reserve, and how long does it take for the benefits to outweigh the costs?
+3.	To what extent have the goals been met in each community, and how quickly if so?
 
 You can read our project proposal in [pdf](docs/proposal.pdf) or [web page](turf-reserves.github.io/proposal.html)
 
 ## The team
 
-### Caio Faro [Resume](docs/caio.pdf)
+### Caio Faro
 
-### Jael Martinez [Resume](docs/jael.pdf)
+[Resume](docs/caio.pdf)
 
-### Melaina Wright [Resume](docs/melaina.pdf)
+### Jael Martinez
 
-### Juan Carlos Villasenor-Derbez [Resume](docs/jc.pdf)
+[Resume](docs/jael.pdf)
+
+### Melaina Wright
+
+[Resume](docs/melaina.pdf)
+
+### Juan Carlos Villasenor-Derbez
+
+[Resume](docs/jc.pdf)
+
+
+## References
+
+* Afflerbach, J.C., Lester, S.E., Dougherty, D.T., Poon, S.E. 2014. A global survey of “TURF-reserves”, Territorial User Right of Fisheries coupled with marine reserves. Global Ecology and Conservation, 2: 97-106. doi:10.1016/j.gecco.2014.08.001
+
+* Costello, C., Kaffine, D.T. 2010. Marine protected areas in spatial property-rights fisheries. Australian Journal of Agriculture and Resource Economics, 54, 321–341.
