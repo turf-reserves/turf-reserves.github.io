@@ -22,7 +22,7 @@ The objective of this project is to evaluate the effectiveness of TURF-reserves 
 2.	What are the economic costs and benefits related to establishing a TURF-reserve, and how long does it take for the benefits to outweigh the costs?
 3.	To what extent have the goals been met in each community, and how quickly if so?
 
-You can read our project proposal in [pdf](docs/proposal.pdf) or [web page](turf-reserves.github.io/proposal.html)
+You can read our project proposal in [pdf](docs/proposal.pdf) or [web page](./proposal.html)
 
 ## References
 
