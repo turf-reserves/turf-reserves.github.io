@@ -1,0 +1,39 @@
+---
+title: "The Team"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 4
+---
+
+## The team
+
+We are a group of four MESM 2017 students at Bren School of Environmental Science & Management, at University of California, Santa Barbara (UCSB). We come from different backgrounds, but have the same goal: Conservation of the Marine Environment.
+
+### Caio Faro
+
+Caio graduated from *Universidade Gama Filho in Rio de Janeiro* (Brazil) in 2009 with a Bachelor and Licentiate degrees in Biological Sciences. In 2014 he also graduated with from specialized graduate certification program in Environmental Management.
+
+Since 2009 he has been volunteering on-shore with *Instituto Sea Shepherd Brasil*, the Brazilian office of the NGO Sea Shepherd Conservation Society, and mostly closely with their environmental education programs. In 2010 he was hired as Field Researcher for Rio de Janeiro's Fisheries Monitoring Program and later served as their Regional Coordinator for the project. In 2012 he was hired by *Fisheries Institute Foundation of the State of Rio de Janeiro* (FIPERJ) as a Regional Coordinator, and then as their Fisheries Monitoring Coordinator in 2014.
+
+Caio Faro is interested in sustainable fisheries management, particularly as it relates to sharks, rays and skates. At the Bren School he is pursuing a Master degree with specialization in **Coastal Marine Resources Management** as a Latin American Fisheries Fellow, and expects to find effective ways to contribute to conservation of ecologically sensitive populations through the adoption of sustainable fisheries practices in Latin America.
+
+[Resume](docs/caio.pdf)
+
+### Jael Martinez
+
+[Resume](docs/jael.pdf)
+
+### Melaina Wright
+
+[Resume](docs/melaina.pdf)
+
+### Juan Carlos Villasenor-Derbez
+
+Juan Carlos Villaseñor-Derbez graduated from the *Autonomous University of Baja California* (UABC), Mexico in 2015 with a Bachelor of Science in Oceanography. Prior to that program, he performed independent research on trophic ecology of the invasive lionfish at the Mexican Caribbean. Later, during his three and a half years as an undergrad student at UABC, Juan Carlos worked with the university’s Kelp Forest Ecology Group, where he mainly studied fish assemblages associated with Kelp Forests along the Baja Peninsula.    
+
+Upon graduation, he was hired as a consultant by the Mexican Tuna Seine Fleet in order to perform catch-data analysis. He also worked with the Mexican NGO [Comunidad y Biodiversidad](cobi.org.mx/en)(COBI; client for this project), as a Field Assistant, where he performed oceanographic and ecological monitoring in Marine Reserves voluntarily established by fishers along the Baja Peninsula.  
+
+Juan Carlos has a deep interest in understanding the implications of marine resource exploitation and management strategies, as well as addressing and communicating priority environmental and social issues and their possible solutions. Fisheries management, marine reserve design, and ecosystem ecology are among his main research interests. At the Bren School, Juan Carlos is pursuing a specialization in **Coastal Marine Resources Management**. As a Latin American Fisheries Fellow, he’s excited to become part of a growing network of interdisciplinary marine resource managers seeking to identify and solve marine environmental issues in Latin America.
+
+[Resume](docs/jc.pdf)

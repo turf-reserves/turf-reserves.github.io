@@ -5,6 +5,9 @@ output:
     toc: yes
     toc_depth: 4
 ---
+__________
+[Home](turf-reserves.github.io/index.html) ~ [The Team](turf-reserves.github.io/team.html)
+__________
 
 ## What are TURF-Reserves?
 
@@ -19,25 +22,6 @@ The objective of this project is to evaluate the effectiveness of TURF-reserves 
 3.	To what extent have the goals been met in each community, and how quickly if so?
 
 You can read our project proposal in [pdf](docs/proposal.pdf) or [web page](turf-reserves.github.io/proposal.html)
-
-## The team
-
-### Caio Faro
-
-[Resume](docs/caio.pdf)
-
-### Jael Martinez
-
-[Resume](docs/jael.pdf)
-
-### Melaina Wright
-
-[Resume](docs/melaina.pdf)
-
-### Juan Carlos Villasenor-Derbez
-
-[Resume](docs/jc.pdf)
-
 
 ## References
 
