@@ -7,9 +7,10 @@ output:
 ---
 
 __________
-[Home](turf-reserves.github.io/index.html) ~ [The Team](turf-reserves.github.io/team.html)
+[Home](./index.html) ~ [The Team](./team.html)
 
 __________
+
 
 ## The team
 
