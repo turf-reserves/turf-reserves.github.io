@@ -6,6 +6,11 @@ output:
     toc_depth: 4
 ---
 
+__________
+[Home](turf-reserves.github.io/index.html) ~ [The Team](turf-reserves.github.io/team.html)
+
+__________
+
 ## The team
 
 We are a group of four MESM 2017 students at Bren School of Environmental Science & Management, at University of California, Santa Barbara (UCSB). We come from different backgrounds, but have the same goal: Conservation of the Marine Environment.

@@ -7,6 +7,11 @@ output:
     toc_depth: 4
 ---
 
+__________
+[Home](turf-reserves.github.io/index.html) ~ [The Team](turf-reserves.github.io/team.html)
+
+__________
+
 ### Evaluation of TURF-reserve effectiveness in Mexico
 
 _________________________________________________________________________________
