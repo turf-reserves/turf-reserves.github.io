@@ -1,7 +1,7 @@
 ---
 title: "TURFeffect"
-author: "Evaluation of TURF-reserve effectiveness in Mexico"
-date: "turfeffect@lists.bren.ucsb.edu"
+subtitle: "Evaluation of TURF-reserve effectiveness in Mexico"
+author: "turfeffect@lists.bren.ucsb.edu"
 output:
   html_document:
     toc: yes
