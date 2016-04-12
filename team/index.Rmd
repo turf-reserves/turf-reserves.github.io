@@ -10,14 +10,12 @@ __________
 
 __________
 
-## The team
-
 We are a group of four MESM 2017 students at Bren School of Environmental Science & Management, at University of California, Santa Barbara (UCSB). We come from different backgrounds, but have the same goal: Conservation of the Marine Environment.
 
-### [Caio Faro](./team/caio.html)
+### [Caio Faro](./caio.html)
 
-### [Jael Martinez](./team/jael.html)
+### [Jael Martinez](./jael.html)
 
-### [Melaina Wright](./team/melaina.html)
+### [Melaina Wright](./melaina.html)
 
-### [Juan Carlos Villasenor-Derbez](./team/jc.html)
+### [Juan Carlos Villasenor-Derbez](./jc.html)
