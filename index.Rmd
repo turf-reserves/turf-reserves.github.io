@@ -8,7 +8,9 @@ output:
     toc_depth: 4
 ---
 __________
-[Home](./index.html) ~ [The Team](./team.html) ~ [GP Proposal](./proposal.html)
+<a href="./" class="btn btn-primary btn-sm">Home</a>
+<a href="team/" class="btn btn-primary btn-sm">The Team</a>
+<a href="./proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
 
 __________
 
