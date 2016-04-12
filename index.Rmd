@@ -1,12 +1,14 @@
 ---
-title: "TURF-Reserves"
+title: "TURFeffect"
+author: "Evaluation of TURF-reserve effectiveness in Mexico"
+date: "turfeffect@lists.bren.ucsb.edu"
 output:
   html_document:
     toc: yes
     toc_depth: 4
 ---
 __________
-[Home](./index.html) ~ [The Team](./team.html)
+[Home](./index.html) ~ [The Team](./team.html) ~ [GP Proposal](./proposal.html)
 
 __________
 

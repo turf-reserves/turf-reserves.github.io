@@ -1,13 +1,10 @@
 ---
 title: "The Team"
-output:
-  html_document:
-    toc: yes
-    toc_depth: 4
+output: html_document
 ---
 
 __________
-[Home](./index.html) ~ [The Team](./team.html)
+[Home](./index.html) ~ [The Team](./team.html) ~ [GP Proposal](./proposal.html)
 
 __________
 
@@ -15,47 +12,10 @@ __________
 
 We are a group of four MESM 2017 students at Bren School of Environmental Science & Management, at University of California, Santa Barbara (UCSB). We come from different backgrounds, but have the same goal: Conservation of the Marine Environment.
 
-### Caio Faro
+### [Caio Faro](./team/caio.html)
 
-Caio graduated from *Universidade Gama Filho*, in Rio de Janeiro (Brazil), in 2010 with a Bachelor and Licentiate degrees in Biological Sciences. In 2014 he also graduated from a specialized graduate certification program in Environmental Management.
+### [Jael Martinez](./team/jael.html)
 
-From 2010 to 2015 he has worked as Field Researcher, Regional Coordinator and State Coordinator for the Rio de Janeiro’s Fisheries Monitoring Program at the *Fisheries Institute Foundation of the State of Rio de Janeiro (FIPERJ)*. Additionally, since 2009 he has been volunteering on-shore with Instituto Sea Shepherd Brasil, the Brazilian office of the NGO Sea Shepherd Conservation Society, mostly with environmental education and marine conservation programs.
+### [Melaina Wright](./team/melaina.html)
 
-Caio is particularly interested in the conservation of sharks, rays and skates. As a Latin American Fisheries Fellow at the Bren School, he is pursuing a specialization in Coastal Marine Resources Management and expects to find effective ways to contribute to conservation of ecologically sensitive populations through the adoption of sustainable fisheries practices in Latin America.
-
-
-[Resume](docs/caio.pdf)
-
-### Jael Martinez
-
-Jael Martinez graduated in 2015 from *Universidad San Francisco de Quito-Ecuador* as a biologist with a minor in journalism. During her undergraduate studies she became interested in Galapagos sea lions and she conducted her thesis in hematology to understand the health and human impacts on sea lions in San Cristobal Island. During her bachelor studies she performed an independent study to find out the patterns of consumption of fish species and seafood from a representative sample of Quito, the second biggest city of Ecuador. She also volunteered as an observer in the CETACEA project, where she participated in the research cruise for cetaceans off the coast of Ecuador.
-
-After her undergraduate studies she worked as a research lab technician at the *Laboratory of Aquatic Ecology (LEA-USFQ)* at Universidad San Francisco de Quito. Her work involved helping with research project within several topics such as taxonomy of freshwater insects and bio-monitoring of freshwater and maintenance of ecological flows to help the conservation of rivers and integrated management of water resources in Ecuador.
-
-Jael’s main interest focus on the dynamics of communities living near watershed and marine ecosystem, citizen-based enforcement of environmental laws and how communication can improve environmental conditions.
-
-As a MESM student she is pursuing the Economics and Politics of the Environment specialization and she looks forward on gaining experience on public policies dealing with environmental problems and resources.
-
-
-[Resume](docs/jael.pdf)
-
-### Melaina Wright
-
-Melaina Wright graduated in 2015 with Latin honors from *Wellesley College* with a Bachelor of Arts in Biological Sciences and a minor in Environmental Studies. During her undergraduate studies, she worked as a biology and statistics tutor, was president of the Biological Chemistry and Biology Club, and was co-founder of the *Wellesley College Chapter of Science Club for Girls* which aims to increase the self-confidence and literacy of young girls in the STEM sciences. She was also involved in experiments that determined the percent increase in parasitic infection of Daphnia from Lake Baikal, Russia with increases in temperature likely to occur with climate change.
-
-Under the direction of Dr. Koslow at *Scripps Institution of Oceanography*, she used multivariate statistics to determine the sampling requirements for creating a long-term monitoring program for fish communities (publication in press). At the Duke University Marine Lab, she determined if there are genetically distinct populations shortfin mako sharks. She also participated in the UNC-IMS pelagic longline shark survey, which collects data on the change in abundance, size, and species diversity of sharks off the coast of North Carolina. In conjunction with the data from this survey, she synthesized genetic information and population recruitment models to determine whether or not the dusky shark should be listed as threatened under the Endangered Species Act. 
-
-As a MESM student at the Bren School of Environmental Science & Management, Melaina is specializing in Coastal Marine Resources Management. Her main interest is in improving the ecological and socioeconomic sustainability of fisheries in the United States. She looks forward to gaining knowledge and experience in coastal and ocean policy, economics, and environmental law with respect to fisheries management during her time at Bren.
-
-
-[Resume](docs/melaina.pdf)
-
-### Juan Carlos Villasenor-Derbez
-
-Juan Carlos Villaseñor-Derbez graduated from the *Universidad Autónoma de Baja California* (UABC), Mexico in 2015 with a Bachelor of Science in Oceanography. Prior to that program, he performed independent research on trophic ecology of the invasive lionfish at the Mexican Caribbean. Later, during his three and a half years as an undergrad student at UABC, Juan Carlos worked with the university’s Kelp Forest Ecology Group, where he mainly studied fish assemblages associated with Kelp Forests along the Baja Peninsula.    
-
-Upon graduation, he was hired as a consultant by the Mexican Tuna Seine Fleet in order to perform catch-data analysis. He also worked with the Mexican NGO [Comunidad y Biodiversidad](cobi.org.mx/en)(COBI; client for this project), as a Field Assistant, where he performed oceanographic and ecological monitoring in Marine Reserves voluntarily established by fishers along the Baja Peninsula.  
-
-Juan Carlos has a deep interest in understanding the implications of marine resource exploitation and management strategies, as well as addressing and communicating priority environmental and social issues and their possible solutions. Fisheries management, marine reserve design, and ecosystem ecology are among his main research interests. At the Bren School, Juan Carlos is pursuing a specialization in **Coastal Marine Resources Management**. As a Latin American Fisheries Fellow, he’s excited to become part of a growing network of interdisciplinary marine resource managers seeking to identify and solve marine environmental issues in Latin America.
-
-[Resume](docs/jc.pdf)
+### [Juan Carlos Villasenor-Derbez](./team/jc.html)

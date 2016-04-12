@@ -7,7 +7,7 @@ output:
     toc_depth: 4
 ---
 __________
-[Home](./index.html) ~ [The Team](./team.html)
+[Home](./index.html) ~ [The Team](./team.html) ~ [GP Proposal](./proposal.html)
 
 __________
 
