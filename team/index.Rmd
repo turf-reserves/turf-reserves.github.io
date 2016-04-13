@@ -1,6 +1,9 @@
 ---
 title: "The Team"
-output: html_document
+output:
+
+  html_document: 
+    css: ../normalize.css
 ---
 
 __________
@@ -12,10 +15,21 @@ __________
 
 We are a group of four MESM 2017 students at Bren School of Environmental Science & Management, at University of California, Santa Barbara (UCSB). We come from different backgrounds, but have the same goal: Conservation of the Marine Environment.
 
+![](figures/caio1.jpg)
+
 ### [Caio Faro](./caio.html)
+
+
+![](figures/jael1.jpg)
 
 ### [Jael Martinez](./jael.html)
 
+
+![](figures/mel1.jpg)
+
 ### [Melaina Wright](./melaina.html)
+
+
+![](figures/jc1.jpg)
 
 ### [Juan Carlos Villasenor-Derbez](./jc.html)
