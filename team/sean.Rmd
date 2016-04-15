@@ -1,7 +1,8 @@
 ---
 title: "Sean Fitzgerald"
-subtitle: "Spfitzgerald@ucsb.edu"
-output: 
+subtitle: "PhD Mentor"
+author: "spfitzgerald@ucsb.edu"
+output:
   html_document: 
     toc: yes
     toc_depth: 4

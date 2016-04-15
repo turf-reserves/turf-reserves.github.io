@@ -1,6 +1,7 @@
 ---
 title: "Jael Martinez"
-subtitle: "mmartinez@bren.ucsb.edu"
+subtitle: "Outreach manager"
+author: "mmartinez@bren.ucsb.edu"
 output: 
   html_document: 
     toc: yes

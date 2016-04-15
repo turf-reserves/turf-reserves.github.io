@@ -1,7 +1,8 @@
 ---
 title: "Melaina Wright"
-subtitle: "mwright@bren.ucsb.edu"
-output: 
+subtitle: "Financial Manager"
+author: "mwright@bren.ucsb.edu"
+output:
   html_document: 
     toc: yes
     toc_depth: 4
