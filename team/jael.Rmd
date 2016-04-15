@@ -7,12 +7,30 @@ output:
     toc_depth: 4
 ---
 
+<STYLE TYPE="text/css">
+<!--
+BODY
+  {
+  text-align:justify;
+  }
+-->
+</STYLE>
+
 __________
 <a href="../" class="btn btn-primary btn-sm">Home</a>
 <a href="./" class="btn btn-primary btn-sm">The Team</a>
 <a href="../proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
 
 __________
+
+<center>
+<img src="figures/jael1.jpg" width="300px" height="40px" />
+
+<a href="./jael.pdf" class="btn btn-primary btn-sm">Resume</a>
+</center>
+____
+
+<P>
 
 Jael Martinez graduated in 2015 from *Universidad San Francisco de Quito-Ecuador* as a biologist with a minor in journalism. During her undergraduate studies she became interested in Galapagos sea lions and she conducted her thesis in hematology to understand the health and human impacts on sea lions in San Cristobal Island. During her bachelor studies she performed an independent study to find out the patterns of consumption of fish species and seafood from a representative sample of Quito, the second biggest city of Ecuador. She also volunteered as an observer in the CETACEA project, where she participated in the research cruise for cetaceans off the coast of Ecuador.
 
@@ -22,5 +40,4 @@ Jael’s main interest focus on the dynamics of communities living near watershe
 
 As a MESM student she is pursuing the **Economics and Politics of the Environment** specialization and she looks forward on gaining experience on public policies dealing with environmental problems and resources.
 
-
-[Resume](./jael.pdf)
+</P>

@@ -7,6 +7,15 @@ output:
     toc_depth: 4
 ---
 
+<STYLE TYPE="text/css">
+<!--
+BODY
+  {
+  text-align:justify;
+  }
+-->
+</STYLE>
+
 __________
 <a href="../" class="btn btn-primary btn-sm">Home</a>
 <a href="./" class="btn btn-primary btn-sm">The Team</a>
@@ -14,11 +23,18 @@ __________
 
 __________
 
+<center>
+<img src="figures/caio1.jpg" width="200px" height="40px" />
+
+<a href="./caio.pdf" class="btn btn-primary btn-sm">Resume</a>
+</center>
+_____
+
+<P>
 Caio graduated from *Universidade Gama Filho*, in Rio de Janeiro (Brazil), in 2010 with a Bachelor and Licentiate degrees in Biological Sciences. In 2014 he also graduated from a specialized graduate certification program in Environmental Management.
 
 From 2010 to 2015 he has worked as Field Researcher, Regional Coordinator and State Coordinator for the Rio de Janeiro’s Fisheries Monitoring Program at the *Fisheries Institute Foundation of the State of Rio de Janeiro (FIPERJ)*. Additionally, since 2009 he has been volunteering on-shore with Instituto Sea Shepherd Brasil, the Brazilian office of the NGO Sea Shepherd Conservation Society, mostly with environmental education and marine conservation programs.
 
 Caio is particularly interested in the conservation of sharks, rays and skates. As a Latin American Fisheries Fellow at the Bren School, he is pursuing a specialization in **Coastal Marine Resources Management** and expects to find effective ways to contribute to conservation of ecologically sensitive populations through the adoption of sustainable fisheries practices in Latin America.
 
-
-[Resume](./caio.pdf)
+</P>

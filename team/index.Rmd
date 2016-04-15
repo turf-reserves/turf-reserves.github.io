@@ -1,10 +1,16 @@
 ---
 title: "The Team"
-output:
-
-  html_document: 
-    css: ../normalize.css
+output: html_document
 ---
+
+<STYLE TYPE="text/css">
+<!--
+BODY
+  {
+  text-align:justify;
+  }
+-->
+</STYLE>
 
 __________
 <a href="../" class="btn btn-primary btn-sm">Home</a>
@@ -13,23 +19,37 @@ __________
 
 __________
 
+
 We are a group of four MESM 2017 students at Bren School of Environmental Science & Management, at University of California, Santa Barbara (UCSB). We come from different backgrounds, but have the same goal: Conservation of the Marine Environment.
 
-![](figures/caio1.jpg)
+## Client
 
-### [Caio Faro](./caio.html)
+## Students
 
+<center>
+  <div id="contentBox" style="margin:10px auto; width:100%">
+    <div id="column1" style="float:left; margin:0; width:25%;">
+      <img src="figures/caiobren.jpg" width="200px" height="40px">
+      <a href="./caio.html" class="btn btn-primary btn-sm">Caio Faro</a>
+    </div>
+    
+    <div id="column2" style="float:left; margin:0;width:25%;">
+      <img src="figures/melbren.jpg" width="200px" height="40px">
+      <a href="./melaina.html" class="btn btn-primary btn-sm">Melaina Wright</a>
+    </div>
+    
+    <div id="column3" style="float:left; margin:0;width:25%">
+      <img src="figures/jaelbren.jpg" width="200px" height="40px">
+      <a href="./jael.html" class="btn btn-primary btn-sm">Jael Martinez</a>
+    </div>
+    
+    <div id="column4" style="float:left; margin:0;width:25%">
+      <img src="figures/jcbren.jpg" width="200px" height="40px">
+      <a href="./jc.html" class="btn btn-primary btn-sm">Juan Carlos Villasenor-Derbez</a>
+    </div>
+  </div>
+</center>
 
-![](figures/jael1.jpg)
+## Advisors
 
-### [Jael Martinez](./jael.html)
-
-
-![](figures/mel1.jpg)
-
-### [Melaina Wright](./melaina.html)
-
-
-![](figures/jc1.jpg)
-
-### [Juan Carlos Villasenor-Derbez](./jc.html)
+## PhD Advisor

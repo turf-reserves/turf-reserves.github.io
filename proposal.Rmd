@@ -1,11 +1,16 @@
 ---
 title: "Project Proposal"
-output: 
-  html_document: 
-    fig_caption: yes
-    toc: yes
-    toc_depth: 4
+output: html_document
 ---
+
+<STYLE TYPE="text/css">
+<!--
+BODY
+  {
+  text-align:justify;
+  }
+-->
+</STYLE>
 __________
 <a href="../" class="btn btn-primary btn-sm">Home</a>
 <a href="team/" class="btn btn-primary btn-sm">The Team</a>
@@ -13,11 +18,11 @@ __________
 
 __________
 
+<p>
 
 ### Evaluation of TURF-reserve effectiveness in Mexico
 
-_________________________________________________________________________________
-
+______
 **Proposers**
 
 [*Latin American Fisheries Fellowship*](http://www.laff.bren.ucsb.edu/)
@@ -121,4 +126,5 @@ COBI will support (at least) one summer internship in Mexico for a MESM student(
 
 We do not expect the project’s basic operations during the school year to exceed the stipend provided by the Bren School ($1,300.00).
 
+</p>
 

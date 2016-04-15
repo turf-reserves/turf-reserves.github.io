@@ -1,18 +1,26 @@
 ---
 title: "TURFeffect"
 subtitle: "Evaluation of TURF-reserve effectiveness in Mexico"
-author: "turfeffect@lists.bren.ucsb.edu"
-output:
-  html_document:
-    toc: yes
-    toc_depth: 4
+author: "contact@turfeffect.org; turfeffect@lists.bren.ucsb.edu"
+output: html_document
 ---
+
+<STYLE TYPE="text/css">
+<!--
+BODY
+  {
+  text-align:justify;
+  }
+-->
+</STYLE>
 __________
 <a href="./" class="btn btn-primary btn-sm">Home</a>
 <a href="team/" class="btn btn-primary btn-sm">The Team</a>
 <a href="./proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
 
 __________
+
+<p>
 
 ## What are TURF-Reserves?
 
@@ -33,3 +41,5 @@ You can read our project proposal in [pdf](docs/proposal.pdf) or [web page](./pr
 * Afflerbach, J.C., Lester, S.E., Dougherty, D.T., Poon, S.E. 2014. A global survey of “TURF-reserves”, Territorial User Right of Fisheries coupled with marine reserves. Global Ecology and Conservation, 2: 97-106. doi:10.1016/j.gecco.2014.08.001
 
 * Costello, C., Kaffine, D.T. 2010. Marine protected areas in spatial property-rights fisheries. Australian Journal of Agriculture and Resource Economics, 54, 321–341.
+
+</p>
