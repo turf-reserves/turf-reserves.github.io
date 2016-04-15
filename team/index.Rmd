@@ -53,3 +53,13 @@ We are a group of four MESM 2017 students at Bren School of Environmental Scienc
 ## Advisors
 
 ## PhD Advisor
+
+<center>
+  <div id="contentBox" style="margin:10px auto; width:100%">
+    <div id="column1" style="float:left; margin:0; width:100%;">
+    <img src="figures/seanbren.png" width="200px" height="40px">
+    
+    <a href="./sean.html" class="btn btn-primary btn-sm">Sean Fitzgerald</a>
+    </div>
+  </div>
+</center>
