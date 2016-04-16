@@ -1,9 +1,26 @@
 ---
 title: "TURFeffect"
-subtitle: "Evaluation of TURF-reserve effectiveness in Mexico"
-author: "contact@turfeffect.org; turfeffect@lists.bren.ucsb.edu"
-output: html_document
+output:
+  rmdformats::html_docco
 ---
+
+```{r knitr_init, echo=FALSE, cache=FALSE, warning=FALSE}
+suppressPackageStartupMessages({
+  library(knitr)
+  library(rmdformats)
+  })
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+               cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
 
 <STYLE TYPE="text/css">
 <!--
@@ -13,12 +30,19 @@ BODY
   }
 -->
 </STYLE>
-__________
-<a href="./" class="btn btn-primary btn-sm">Home</a>
-<a href="team/" class="btn btn-primary btn-sm">The Team</a>
-<a href="./proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
 
-__________
+## Evaluation of TURF-reserve effectiveness in Mexico
+
+**Contact us at: ** contact@turfeffect.org or turfeffect@lists.bren.ucsb.edu
+
+<center>
+  <div id="contentBox" style="margin:10px auto; width:100%">
+  
+    <a href="./" class="btn btn-primary btn-sm">Home</a>    <a href="team/" class="btn btn-primary btn-sm">The Team</a>    <a href="./proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
+  
+  </div>
+</center>
+
 
 <p>
 

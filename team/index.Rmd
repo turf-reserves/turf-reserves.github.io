@@ -1,7 +1,26 @@
 ---
 title: "The Team"
-output: html_document
+output:
+  rmdformats::html_docco
 ---
+
+```{r knitr_init, echo=FALSE, cache=FALSE, warning=FALSE}
+suppressPackageStartupMessages({
+  library(knitr)
+  library(rmdformats)
+  })
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+               cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
 
 <STYLE TYPE="text/css">
 <!--
@@ -12,61 +31,59 @@ BODY
 -->
 </STYLE>
 
-__________
-<a href="../" class="btn btn-primary btn-sm">Home</a>
-<a href="./" class="btn btn-primary btn-sm">The Team</a>
-<a href="../proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
-
-__________
+<center>
+  <div id="contentBox" style="margin:10px auto; width:100%">
+    <a href="../" class="btn btn-primary btn-sm">Home</a>  <a href="./" class="btn btn-primary btn-sm">The Team</a>  <a href="../proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
+</div>
+</center>
 
 
 We are a group of four MESM 2017 students at Bren School of Environmental Science & Management, at University of California, Santa Barbara (UCSB). We come from different backgrounds, but have the same goal: Conservation of the Marine Environment.
 
 ## Client
 
+<center>
+  <div id="contentBox" style="margin:10px auto; width:100%">
+    <a href=cobi.org/en class="btn btn-primary btn-sm">COBI</a>
+  </div>
+</center>
+
 ## Students
 
 <center>
   <div id="contentBox" style="margin:10px auto; width:100%">
-    <div id="column1" style="float:left; margin:0; width:25%;">
     <b>Project Manager</b>
       <img src="figures/caiobren.jpg" width="200px" height="40px">
-      
       <a href="./caio.html" class="btn btn-primary btn-sm">Caio Faro</a>
-    </div>
     
-    <div id="column2" style="float:left; margin:0;width:25%;">
     <b>Financial Manager</b>
       <img src="figures/melbren.jpg" width="200px" height="40px">
-      
       <a href="./melaina.html" class="btn btn-primary btn-sm">Melaina Wright</a>
-    </div>
     
-    <div id="column3" style="float:left; margin:0;width:25%">
     <b>Outreach Manager</b>
       <img src="figures/jaelbren.jpg" width="200px" height="40px">
-      
       <a href="./jael.html" class="btn btn-primary btn-sm">Jael Martinez</a>
-    </div>
     
-    <div id="column4" style="float:left; margin:0;width:25%">
     <b>Data Manager</b>
       <img src="figures/jcbren.jpg" width="200px" height="40px">
       <a href="./jc.html" class="btn btn-primary btn-sm">Juan Carlos Villasenor-Derbez</a>
-    </div>
   </div>
 </center>
 
 ## Advisors
 
+<center>
+  <div id="contentBox" style="margin:10px auto; width:100%">
+    <a href="./chris.html" class="btn btn-primary btn-sm">Chris Costello</a>
+  </div>
+</center>
+
 ## PhD Advisor
 
 <center>
   <div id="contentBox" style="margin:10px auto; width:100%">
-    <div id="column1" style="float:left; margin:0; width:100%;">
     <img src="figures/seanbren.png" width="200px" height="40px">
     
     <a href="./sean.html" class="btn btn-primary btn-sm">Sean Fitzgerald</a>
-    </div>
   </div>
 </center>
