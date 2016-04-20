@@ -1,0 +1,59 @@
+---
+title: "Chris Costello"
+subtitle: "Faculty Advisor"
+output: 
+  rmdformats::html_docco
+---
+
+```{r knitr_init, echo=FALSE, cache=FALSE, warning=FALSE}
+suppressPackageStartupMessages({
+  library(knitr)
+  library(rmdformats)
+  })
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+               cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+<STYLE TYPE="text/css">
+<!--
+BODY
+  {
+  text-align:justify;
+  }
+-->
+</STYLE>
+
+costello@bren.ucsb.edu
+
+<center>
+  <div id="contentBox" style="margin:10px auto; width:100%">
+  
+    <a href="../" class="btn btn-primary btn-sm">Home</a>    <a href="./" class="btn btn-primary btn-sm">The Team</a>    <a href="../proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
+  
+  </div>
+</center>
+
+___
+
+<center>
+<img src="figures/costellobren.jpg" width="200px" height="40px" />
+
+<a href="https://christopherjcostello.com/" class="btn btn-primary btn-sm">Personal Website</a>
+</center>
+____
+
+<P>
+
+Professor Chris Costello joined the faculty of University of California, Santa Barbara, after receiving his PhD in Agricultural and Natural Resource Economics from the University of California, Berkeley, in 2000. Outside of his appointment as a professor of Environmental and Resource Economics, he is an avid fisherman, diver and traveler. These hobbies frequently intersect or inspire his research concerning natural resource economics and policy on property rights. In his work, Professor Costello combines theoretical micro-economics with modeling and empirical analysis, often to inform policy on fisheries management, biological diversity, introduced species, industrial regulation, or marine policy. He partners with colleagues from around the world to translate his research into on-the-ground action in a diverse spectrum of developed and developing countries, including Peru, Chile, Mexico, Cuba, Indonesia, China, the United States and Cambodia.
+
+
+</P>
