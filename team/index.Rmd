@@ -74,7 +74,9 @@ We are a group of four MESM 2017 students at Bren School of Environmental Scienc
 
 <center>
   <div id="contentBox" style="margin:10px auto; width:100%">
-    <a href="./chris.html" class="btn btn-primary btn-sm">Chris Costello</a>
+    <img src="figures/costellobren.jpg" width="200px" height="40px">
+  
+    <a href="./costello.html" class="btn btn-primary btn-sm">Chris Costello</a>
   </div>
 </center>
 
