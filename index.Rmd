@@ -35,14 +35,17 @@ BODY
 
 **Contact us at: ** contact@turfeffect.org or turfeffect@lists.bren.ucsb.edu
 
+___
 <center>
   <div id="contentBox" style="margin:10px auto; width:100%">
   
-    <a href="./" class="btn btn-primary btn-sm">Home</a>    <a href="team/" class="btn btn-primary btn-sm">The Team</a>    <a href="./proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
+  <a href="./" class="btn btn-primary btn-sm">Home</a>    <a href="team/" class="btn btn-primary btn-sm">The Team</a>    <a href="./proposal.html" class="btn btn-primary btn-sm">GP Proposal</a>
   
   </div>
 </center>
+___
 
+___
 
 <p>
 
@@ -59,6 +62,8 @@ The objective of this project is to evaluate the effectiveness of TURF-reserves 
 3.	To what extent have the goals been met in each community, and how quickly if so?
 
 You can read our project proposal in [pdf](docs/proposal.pdf) or [web page](./proposal.html)
+
+___
 
 ## References
 
